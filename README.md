@@ -1,18 +1,17 @@
 # Logiciels libres produits ou améliorés par des laboratoires ESR
 
-| URL du logiciel libre         | URL du labo contributeur principal |
-|-------------------------------|------------------------------------|
-| <https://scikit-learn.org>    |                                    |
-| <https://ocaml.org>           |                                    |
-| <https://www.cgal.org/>       |                                    |
-| <http://eigen.tuxfamily.org/> |                                    |
+-   <https://scikit-learn.org>
+-   <https://ocaml.org>
+-   <https://www.cgal.org/>
+-   <http://eigen.tuxfamily.org/>
+-   <https://www.scilab.org/>
 
 
 # Sociétés de droits privés créant de la valeur autour de ces logiciels libres 
 
-| URL de la société                | Logiciels libres                           |
-|----------------------------------|--------------------------------------------|
-| <https://www.fondation-inria.fr> | <https://scikit-learn.fondation-inria.fr/> |
+-   <https://www.fondation-inria.fr>
+    -   <https://scikit-learn.fondation-inria.fr/>
+
 
 # Noms de domaine des universités françaises
 
